@@ -1,6 +1,6 @@
 const config = 
 {
-    "url":"http://localhost:2017"
+    "url":"http://52.200.55.46:2017"
 }
 
 export default config
